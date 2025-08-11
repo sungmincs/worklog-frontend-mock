@@ -14,7 +14,7 @@ export const initialTodos = [
     updated_date: "2025-09-12T05:46:11.464000"
   },
   {
-    title: "테스트1",
+    title: "팀 미팅 action item들 정리하기",
     completed: true,
     id: "6690a3d6f6388a8765b7babc",
     created_date: "2025-09-11T03:32:38.080000",
